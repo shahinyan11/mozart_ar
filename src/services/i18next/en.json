@@ -1,0 +1,342 @@
+{
+  "modals": {
+    "take_element_front": "The element of ",
+    "take_element_end": " became Lorem Ipsum Assigned statue",
+    "remained": "REMAINED"
+  },
+  "colors": {
+    "red": "Red",
+    "blue": "Blue",
+    "pink": "Pink",
+    "green": "Green",
+    "purple": "Purple",
+    "yellow": "Yellow"
+  },
+  "buttons": {
+    "hint_1": "Hint 1",
+    "hint_2": "Hint 2",
+    "hint_2_solution": "Hint 2 (solution)",
+    "hint_3_solution": "Hint 3 (solution)",
+    "activate_answer": "ACTIVATE ANSWER",
+    "start_new_game": "Start new game",
+    "join_running_game": "Join running game",
+    "introduction_intro": "INTRODUCTION / INTRO",
+    "starting_point": "FIND THE STARTING POINT",
+    "start_game": "START GAME",
+    "mainMenu": "Main\nMenu",
+    "currentRiddle": "Current\nRiddle",
+    "rucksack": "Open\nBackpack",
+    "map": "Open\nMap",
+    "cameraAr": "Activate AR\ncamera",
+    "cameraQR": "Activate QR\ncamera",
+    "hints": "Hints",
+    "start_singing": "Start singing"
+  },
+  "inputs": {
+    "placeholder": {
+      "Email": "Email"
+    },
+    "labels": {
+      "solution": "Solution",
+      "player_name": "Player name",
+      "activation_code": "Activation code",
+      "language": "Language:"
+    }
+  },
+  "titles": {
+    "Cabinet": "Cabinet"
+  },
+  "alerts": {
+    "element_attached": "You attached an element to the right statue. There are {{count}} more items left to attach",
+    "element_already_attached": "This element already attached",
+    "DeleteTitle": "Delete",
+    "unfilled_elements": "All elements are not yet collected",
+    "element_already_taken": "Someone on your team already has this element",
+    "enough_space_1": "There is only enough space for 1 elements in your backpack.",
+    "enough_space_2": "There is only enough space for 2 elements in your backpack.",
+    "element_not_in_backpack": "You don't have the correct element for this statue in your backpack.",
+    "cup_is_not_active": "You need something to catch the water with!"
+  },
+  "notifications": {
+    "cup_activated": "The cup is activated",
+    "element_activated": "The Element is activated"
+  },
+  "riddles": {
+    "1": {
+      "text": "Follow the map to the location shown. Once there, find the secret sign to start the game with the AR camera",
+      "hints": {
+        "1": "Examine the house walls with the AR camera.",
+        "2": "A prominent point higher up on the wall.",
+        "3": "Below the horse's head."
+      }
+    },
+    "2": {
+      "text": "Follow the map. You have to find a memorial in honour of a very important doctor of the 16th century somewhere here. \n\n Find it and it will show you the path! The doctors name was: Philippus Aureolus Theophrastus Bombastus von Hohenheim",
+      "hints": {
+        "1": "You are looking for a portrait of Paracelsus",
+        "2": "Especially have a look along the walls of the buildings",
+        "3": "The goblet of health is in the backpack of one player. Scan the QR code in the right place and see what happens"
+      }
+    },
+    "3": {
+      "text": "Follow the map. You have to find a memorial in honour of a very important doctor of the 16th century somewhere here. \n\n Find it and it will show you the path! The doctors name was: Philippus Aureolus Theophrastus Bombastus von Hohenheim \n\n We are traveling back in time. Take the goblet of health and fill it up with water. There are three possible places, but only one of them is the right one. The right place was already used since 1374!",
+      "hints": {
+        "1": "You are looking for a portrait of Paracelsus",
+        "2": "Especially have a look along the walls of the buildings",
+        "3": "The goblet of health is in the backpack of one player. Scan the QR code in the right place and see what happens"
+      }
+    },
+    "4": {
+      "text": "Discover the secret sign!",
+      "hints": {
+        "1": "The secret sign is on the wall of Mozart Residence.",
+        "2": "This serenade was finished from Mozart on the 10th of August 1787 in Vienna. We want you to name the famous side name of this composition (German language).",
+        "3": "Eine kleine Nachtmusik"
+      }
+    },
+    "5": {
+      "text": "Discover the secret sign! \n\n What composition are you listening to?",
+      "hints": {
+        "1": "The secret sign is on the wall of Mozart Residence.",
+        "2": "This serenade was finished from Mozart on the 10th of August 1787 in Vienna. We want you to name the famous side name of this composition (German language).",
+        "3": "Eine kleine Nachtmusik"
+      }
+    },
+    "6": {
+      "text": "In 1690 prince archbishop Johann Ernst Graf Thun ordered Fischer von Erlach to build Mirabell gardens (Mirabellgarten). \n\n Franz de Paula Johann Josef Graf von Thun was always close with the secret society of Freimaurer. Maybe it was even him who persuaded Mozart to join in. \n\n Each statue at the Mirabell fountain represents one of the four elements. Bring them in the correct correlation!",
+      "hints": {
+        "1": "Every player will find his element in his backpack or somewhere close around (use AR)",
+        "2": "Take a closer look on the statues around the Mirabell Fountain.",
+        "3": "Every player must find his element and play a mini game to receive it. Then correlate the element with the fitting statue of the Mirabell Fountain."
+      }
+    },
+    "7": {
+      "text": "In 1690 prince archbishop Johann Ernst Graf Thun ordered Fischer von Erlach to build Mirabell gardens (Mirabellgarten). \n\n Franz de Paula Johann Josef Graf von Thun was always close with the secret society of Freimaurer. Maybe it was even him who persuaded Mozart to join in. \n\n Each statue at the Mirabell fountain represents one of the four elements. Bring them in the correct correlation!",
+      "hints": {
+        "1": "Every player will find his element in his backpack or somewhere close around (use AR)",
+        "2": "Take a closer look on the statues around the Mirabell Fountain.",
+        "3": "Every player must find his element and play a mini game to receive it. Then correlate the element with the fitting statue of the Mirabell Fountain."
+      }
+    },
+    "8": {
+      "text": "Walk to the bridge of love! \n\n Get to the middle of the bridge and find the light! \n\n Mozart will be here forever",
+      "hints": {
+        "1": " Makartsteg",
+        "2": "In the middle of the bridge there is a neon tube. Look somewhere around that light for a lock about Mozart.",
+        "3": "One of the locks has a Freimaurer symbol and a QR-Code on it. Scan the QR-Code and you will find the next place."
+      }
+    },
+    "9": {
+      "text": "Wolfgang Amadeus Mozart was born in January 27th 1756 in Salzburg. \n\n Maybe there is a hint somewhere near his birthplace?",
+      "hints": {
+        "1": " Use your camera (AR) to discover the Freimaurer sign on the wall close to Mozart’s birthplace",
+        "2": "Different players can spot different information. Put all of the information together and solve the colour riddle. But watch out! After any wrong answer (no matter from which player) the information changes.",
+        "3": "The correct answer at the moment is: "
+      }
+    },
+    "10": {
+      "text": "Wolfgang Amadeus Mozart was born in January 27th 1756 in Salzburg. \n\n Maybe there is a hint somewhere near his birthplace?",
+      "hints": {
+        "1": " Use your camera (AR) to discover the Freimaurer sign onEge the wall close to Mozart’s birthplace",
+        "2": "Different players can spot different information. Put all of the information together and solve the colour riddle. But watch out! After any wrong answer (no matter from which player) the information changes.",
+        "3": "The correct answer at the moment is: "
+      }
+    },
+    "11": {
+      "text": "Look around in this interesting place",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "Follow the light to the middle of the pedestrian bridge Mozartsteg."
+      }
+    },
+    "12": {
+      "text": "Look around in this interesting place \n\n The legend tells that the Masonic Lodge Zur Fürsicht was meeting at the restaurant Zum Zirkelwirt with Mozart back in time. \n\n Spread up around here and search for a significant symbol somewhere at this square. \n\n It shall be light!",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "Follow the light to the middle of the pedestrian bridge Mozartsteg."
+      }
+    },
+    "13": {
+      "text": "Look around in this interesting place \n\n The legend tells that the Masonic Lodge Zur Fürsicht was meeting at the restaurant Zum Zirkelwirt with Mozart back in time. \n\n Spread up around here and search for a significant symbol somewhere at this square. \n\n It shall be light! \n\n Follow the light, but be careful when crossing streets!",
+      "hints": {
+        "1": "Use your camera (AR) to discover the Freimaurer sign on the wall or somewhere around the restaurant Zum Zirkelwirt.",
+        "2": "Open your camera (AR) and explore the square around the restaurant Zum Zirkelwirt. As soon as one player can find the significant statue the quest continues.",
+        "3": "Follow the light to the middle of the pedestrian bridge Mozartsteg."
+      }
+    },
+    "14": {
+      "text": "Solmisation (do-re-mi-fa-sol-la-si)",
+      "hints": {
+        "1": "Sing!",
+        "2": "Sing all together!",
+        "3": "The final station of your quest will be reveal as soon as all players are singing together in each of their devices."
+      }
+    },
+    "15": {
+      "text": "You are close to finish! \n\n Go to the final station of your quest!",
+      "hints": {
+        "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+        "2": "",
+        "3": ""
+      }
+    },
+    "16": {
+      "text": "You are close to finish! \n\n Go to the final station of your quest!",
+      "hints": {
+        "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+        "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+        "3": ""
+      }
+    },
+    "17": {
+      "1": {
+        "text": "You are close to finish! \n\n The Mozart monument is a gift from the family",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in …",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"7/18/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "18": {
+      "1": {
+        "text": "You are close to finish! \n\n The Mozart monument is a gift from the family \"Freiherren von Schwarz\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in \"7/18/1877\" ",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"7/18/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "19": {
+      "1": {
+        "text": "You are close to finish! \n\n The Mozart monument is a gift from the family \"Freiherren von Schwarz\" ",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in \"7/18/1877\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"7/18/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    },
+    "20": {
+      "1": {
+        "text": "You are close to finish! \n\n The Mozart monument is a gift from the family \"Freiherren von Schwarz\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument is a gift from the family \"Freiherren von Schwarz\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      },
+      "2": {
+        "text": "You are close to finish! \n\n The Mozart monument was presented in \"7/18/1877\" \n\n The answer is correct. If your team already answered both questions correct you will only need one significant object to use in this place.",
+        "hints": {
+          "1": "Go up the mountain to the Monastery Capuchin and follow the street back. If you can spot some Freimaurer symbols you are on the right track.",
+          "2": "The Mozart monument is your final destination. Take a close look and maybe one of the players has something in his backpack that could be useful in this specific place",
+          "3": "The Mozart monument was presented in \"7/18/1877\" . \n\n Take the magic flute out of your backpack and see what happens next!"
+        }
+      }
+    }
+  },
+  "screens": {
+    "CurrentRiddle":{
+      "color_question": "Which number is {{color}} ?"
+    },
+    "Singing": {
+      "title": "Sing it loud!"
+    },
+    "End": {
+      "title": "Mozart's Legacy",
+      "text": "You made it! Congratulations! \n\n We are happy that you have mastered this adventure together as a team! \n\n Show us your booking code from Mozart's legacy at your next appointment and you will receive our voucher stamp card and 1 free drink per person!"
+    },
+    "Intro": {
+      "mainTitle": "Introduction / Intro",
+      "name": "Wolfgang Amadeus Mozart!",
+      "text_1": "On January 27, 1756, a special class musician and artist was born in Salzburg:",
+      "text_2": "He is probably one of the most famous Salzburg residents and his works are known worldwide. What is hardly known is that Mozart joined the Freemasons in 1784 and dedicated some of his works specifically to this work.",
+      "text_3": "As is customary among Freemasons, there were and are secret signs and markings in order to pass on important information only in an internal circle. A modern decryption algorithm now enables us to make these signs visible.",
+      "text_4": "Nehmt diese App und findet Mozarts Vermächtnis! Aber beeilt euch, denn der Schlüssel ändert sich alle 90 Minuten! Danach müsst ihr wieder zurück sein!",
+      "text_5": "Take this app and find Mozart's legacy! But hurry because the key changes every 90 minutes! Then you have to be back!",
+      "text_6": "To find the starting point of your journey, you have to solve the first puzzle:"
+    },
+    "Hints": {
+      "mainTitle": "Hints",
+      "text_1": "Here you can get some helping hints. Only use these hints if you have no clue how to get any further in the quest.",
+      "text_2": "Your hints are always about your current riddle:",
+      "text_3": "If you've used all three hints and you are still not able to get any further, you can call us during our opening times: \n +43 676 5841300"
+    },
+    "Home": {
+      "mainTitle": "Welcome to \n Mozart's legacy",
+      "title": "by Virtual Escape www.virtual-escape.at"
+    },
+    "MainMenu": {
+      "title": "Welcome to Mozart's legacy!",
+      "text_1": "These players did join the game:",
+      "text_2": "You can start at any given time!",
+      "text_3": "Game progress: xx%",
+      "text_4": "Remaining time: 89 min 39 sec"
+    },
+    "StartingPoint": {
+      "mainTitle": "Find the starting point!",
+      "description": "Solve the first puzzle now and find out where you start in Salzburg:",
+      "centerText": "The capital of Upper Austria, what is it called, together with the small, narrow street, that's where Mozart's empire begins!",
+      "hints": {
+        "1": "The little street you are looking for is centrally located in the city of Salzburg and ends at the State Bridge.",
+        "2": "It's about the \"Linzergasse\" "
+      }
+    },
+    "StartGame": {
+      "mainTitle": "Start the game!",
+      "title": "The adventure awaits you!",
+      "contentTitle": "Important information before you start the game:",
+      "centerText": "Once you have entered your access code on a mobile phone, the game is activated and the time runs (90min). There is no way back! \n If you exit or close the app during playing you can always resume back in the game, as long as the time has not exceeded 90 min. \n There is a map available, which you can use. It will show you the starting point.",
+      "checkTitle": "Quickly go through this checklist before you start:",
+      "text_1": "You already know the starting point of the game and ideally you are already close by.",
+      "text_2": "It is not too late (dark) to see everything well",
+      "text_3": "Your phones are charged and you might also have a power bank (just in case). Every player is important and can have special features and abilities with their phones!",
+      "text_4": "One player starts the game and after that all the other players can join in:"
+    },
+    "Settings": {
+      "mainTitle": "Settings"
+    },
+    "Rucksack": {
+      "mainTitle": "Rucksack"
+    },
+    "Map": {
+      "mainTitle": "MAP"
+    }
+  },
+  "words": {
+    "english": "English",
+    "german": "German",
+    "air": "Air",
+    "earth": "Earth",
+    "fire": "Fire",
+    "water": "water"
+  }
+}
